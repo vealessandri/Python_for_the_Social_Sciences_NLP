@@ -2,7 +2,7 @@
 
 Este repositório se refere à pesquisa elaborada para artigo científico sobre governança de migração no Brasil, escrito por Vítor Eduardo Alessandri Ribeiro em coautoria com Roberto Rodolfo Georg Uebel e Eveline Vieira Brígido. 
 
-A pesquisa empírica reflete uma análise feita sobre o corpus de texto de 2404 tweets com a *hashtag* "foravenezuelanos". 
+A pesquisa empírica reflete uma análise feita sobre o corpus de texto de 2404 tweets com a *searh query* "fora venezuelanos", refletindo um momento de alta de sentimento xenófobo em meio à população no Brasil. A ideia foi detectar e conhecer esse fenômeno. 
 
 A captura dos dados foi feita empregando o script elaborado por Jefferson Henrique, em seu projeto intitulado "GetOldTweets-python", disponível no repositório [GitHub](https://github.com/Jefferson-Henrique/GetOldTweets-python)
 
